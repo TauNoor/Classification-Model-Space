@@ -1,2 +1,2 @@
-# Classification-Model-Spaceship
+# Classification-Model-Space
 Dataset was collected from Kaggle
